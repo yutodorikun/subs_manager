@@ -1,0 +1,10 @@
+regular_user:
+  name: "テストユーザー"
+  email: "test@example.com"
+  google_id: "123456789"
+  avatar_url: "https://example.com/avatar.jpg"
+
+another_user:
+  name: "別のユーザー"
+  email: "another@example.com"  
+  google_id: "987654321"

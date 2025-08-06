@@ -1,0 +1,9 @@
+video_streaming:
+  name: "動画配信"
+  color: "#ef4444"
+  icon: "video"
+
+music_streaming:
+  name: "音楽配信"
+  color: "#10b981"
+  icon: "music"

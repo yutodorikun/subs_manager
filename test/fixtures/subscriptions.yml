@@ -1,0 +1,19 @@
+netflix:
+  user: regular_user
+  category: video_streaming
+  name: "Netflix"
+  price: 1490
+  billing_cycle: "monthly"
+  start_date: <%= 1.month.ago.to_date %>
+  payment_method: "クレジットカード"
+  is_active: true
+
+spotify:
+  user: regular_user
+  category: music_streaming
+  name: "Spotify Premium"
+  price: 980
+  billing_cycle: "monthly"
+  start_date: <%= 2.months.ago.to_date %>
+  payment_method: "PayPal"
+  is_active: true
